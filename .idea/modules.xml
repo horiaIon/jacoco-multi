@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jacoco-multi.iml" filepath="$PROJECT_DIR$/jacoco-multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectA/projectA.iml" filepath="$PROJECT_DIR$/projectA/projectA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectB/projectB.iml" filepath="$PROJECT_DIR$/projectB/projectB.iml" />
+    </modules>
+  </component>
+</project>

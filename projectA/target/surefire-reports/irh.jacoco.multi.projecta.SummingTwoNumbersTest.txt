@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: irh.jacoco.multi.projecta.SummingTwoNumbersTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.153 sec - in irh.jacoco.multi.projecta.SummingTwoNumbersTest
